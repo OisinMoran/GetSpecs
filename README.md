@@ -2,7 +2,7 @@
 GetSpecs is a simple tool to promote reproducible computing by making it easier to share system specifications & versioning information. Pull requests welcome & encouraged.
 
 ## Motivation
-Reproducibility is central to the scientific method: if no one can reproduce your results they are under no obligation to belive them. The same goes for computing&mdash;and as machine learning tries to shake off it's alchemical tendencies, we must take reproducibililty and reproducible computing seriously.
+Reproducibility is central to the scientific method: if no one can reproduce your results they are under no obligation to believe them. The same goes for computing&mdash;and as machine learning tries to shake off it's alchemical tendencies, we must take reproducibililty and reproducible computing seriously.
 
 A common source of issues in running Other People's Code™ is trying to run it on a system it was not designed for, or with different versions of the packages it depends on.
 This tool aims to make explicit the system and package versions used in research projects, to decrease the time and frustration in attempting to set up an experimental system or reproduce someone else's results.
