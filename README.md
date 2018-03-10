@@ -62,6 +62,7 @@ $ grip -b system.md
 ```
 
 ## To Do:
+- [ ] Ensure Python 2/3 functionality (would flag be appropriate or necessary?)
 - [ ] Add commandline arguments (GPU flag, package list, etc.)
 - [ ] Mac compatibility
 - [ ] Windows compatibility
