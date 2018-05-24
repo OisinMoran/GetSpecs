@@ -1,7 +1,8 @@
 #!/bin/bash
-echo -e "\n## System"
-echo -e "Name | Version"
-echo -e "---- | -------"
+echo ""
+echo "## System"
+echo "Name | Version"
+echo "---- | -------"
 
 # OS
 echo "OS |" $(lsb_release -ds)
